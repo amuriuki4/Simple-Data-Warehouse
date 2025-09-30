@@ -1,7 +1,6 @@
 # OLAP DEMO
 # This script demonstrates a simple OLAP operation using pandas.
 # ROLAP, OLAP, MOLAP
-%pip install pandas matplotlib seaborn
 import sqlite3
 import pandas as pd
 import matplotlib.pyplot as plt
